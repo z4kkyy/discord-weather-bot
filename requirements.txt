@@ -1,0 +1,7 @@
+aiohttp
+aiosqlite
+discord.py
+python-dotenv
+svglib
+rlPyCairo
+reportlab
